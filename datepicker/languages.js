@@ -44,4 +44,13 @@ export default {
       'dateRange': 'Selecione um período'
     }
   },
+  'sl-si': {
+    'days': ['Ned', 'Pon', 'Tor', 'Sre', 'Čet', 'Pet', 'Sob'],
+    'months': ['Jan', 'Feb', 'Mar', 'Apr', 'Maj', 'Jun', 'Jul', 'Avg', 'Sep', 'Okt', 'Nov', 'Dec'],
+    'pickers': ['naslednjih 7 dni', 'naslednjih 30 dni', 'prejšnjih 7 dni', 'prejsšnjih 30 dni'],
+    'placeholder': {
+      'date': 'Izberi datum',
+      'dateRange': 'Izberi rang'
+    }
+  },
 }
